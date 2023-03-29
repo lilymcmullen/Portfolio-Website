@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-image: headshot.png
 about: 
   template: trestles
   image-shape: rounded
