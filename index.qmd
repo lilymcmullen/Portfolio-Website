@@ -11,9 +11,7 @@ about:
     - text: Email
       href: mailto:lilybmcmullen@gmail.com
 ---
-About Me: Second year student at University of Arizona studying natural resources with a concentration in conservation biology, as well as a minor in computer science and a certificate in geographic information systems (GIS). 
-Interest in conservation, ecological data science and data visualization.
 
-Learning R and RStudio, Python, Github/Git, ArcGIS Pro, and data science.
+Hi there, nice to meet you! Welcome to my portfolio.
 
----
+------------------------------------------------------------------------

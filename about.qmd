@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi, I'm Lily! I am a second year student at University of Arizona studying natural resources with a concentration in conservation biology, as well as a minor in computer science and a certificate in geographic information systems (GIS). I am interested in conservation, ecological data science and data visualization.
 
-```{r}
-1 + 1
-```
+I'm currently studying R and RStudio, Python, Github/Git, ArcGIS Pro, and data science.

@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "I’m currently studying R and RStudio, Python, Github/Git, ArcGIS Pro, and data science."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lily McMullen",
     "section": "",
-    "text": "Learning R and RStudio, Python, Github/Git, ArcGIS Pro, and data science."
+    "text": "Hi there, nice to meet you! Welcome to my portfolio."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Lily McMullen",
+    "section": "",
+    "text": "All of my favorite resources!"
   }
 ]
