@@ -1,11 +1,19 @@
 ---
-title: "lilymcmullen"
+title: "Lily McMullen"
+#image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: GitHub
+      href: https://github.com/lilymcmullen
+    - text: Email
+      href: mailto:lilybmcmullen@gmail.com
 ---
+About Me: Second year student at University of Arizona studying natural resources with a concentration in conservation biology, as well as a minor in computer science and a certificate in geographic information systems (GIS). 
+Interest in conservation, ecological data science and data visualization.
 
-This is a Quarto website.
+Learning R and RStudio, Python, Github/Git, ArcGIS Pro, and data science.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+---
