@@ -1,6 +1,6 @@
 ---
 title: "Lily McMullen"
-#image: headshot.jpg
+image: headshot.png
 about: 
   template: trestles
   image-shape: rounded
@@ -12,6 +12,10 @@ about:
       href: mailto:lilybmcmullen@gmail.com
 ---
 
-Hi there, nice to meet you! Welcome to my portfolio.
+Hello, and welcome to my website! My name is Lily McMullen, and I am a second year student at University of Arizona.
+
+I am studying natural resources with a concentration in conservation biology, as well as a minor in computer science and a certificate in geographic information systems (GIS). I am interested in conservation, ecological data science and data visualization.
 
 ------------------------------------------------------------------------
+
+Currently studying R and RStudio, Python, Github/Git, ArcGIS Pro, and data science.

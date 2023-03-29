@@ -1,0 +1,14 @@
+---
+title: "Projects"
+image: headshot.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+---
+
+\[WORK IN PROGRESS\]
+
+My projects
+
+------------------------------------------------------------------------
