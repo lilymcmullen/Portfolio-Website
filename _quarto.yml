@@ -5,16 +5,29 @@ project:
 website:
   title: "Lily McMullen"
   navbar:
-   background: primary
-   left:
-     - href: index.qmd
-       text: Home
-     - about.qmd
-     - projects.qmd
+    right:
+      - href: index.qmd
+        text: Home
+      - Portfolio.qmd
+      - href: resume.pdf
+        text: Resume
+      - about.qmd
+  page-footer: 
+    background: "#4682B4"
+    left: "Lily McMullen"
+    right: 
+      - icon: github
+        href: https://github.com/lilymcmullen
+      - icon: email
+        href: mailto:lilymcmullen@arizona.edu    
+      
+
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+      - styles.scss
+    mainfont: Nunito
+    toc: true
 
 editor: visual

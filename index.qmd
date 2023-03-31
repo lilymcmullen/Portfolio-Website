@@ -1,21 +1,58 @@
 ---
 title: "Lily McMullen"
 image: headshot.png
+page-layout: full
 about: 
-  template: trestles
+  template: solana
   image-shape: rounded
-  image-width: 15em
+  image-width: 20em
   links:
-    - text: GitHub
+    - icon: github 
+      text: GitHub
       href: https://github.com/lilymcmullen
-    - text: Email
-      href: mailto:lilybmcmullen@gmail.com
+    - icon: envelope 
+      text: Email
+      href: mailto:lilymcmullen@arizona.edu
 ---
+
+# **Welcome!**
 
 Hello, and welcome to my website! My name is Lily McMullen, and I am a second year student at University of Arizona.
 
-I am studying natural resources with a concentration in conservation biology, as well as a minor in computer science and a certificate in geographic information systems (GIS). I am interested in conservation, ecological data science and data visualization.
+I am studying Natural Resources with a concentration in Conservation Biology, as well as a minor in Computer Science and a certificate in Geographic Information Systems (GIS). I am interested in conservation, ecological data science and data visualization.
 
 ------------------------------------------------------------------------
 
-Currently studying R and RStudio, Python, Github/Git, ArcGIS Pro, and data science.
+# **Education**
+
+Currently studying R and RStudio, Python, Github/Git, ArcGIS Pro, and data science at the University of Arizona in Tucson.
+
+### [University of Arizona]{.underline}
+School of Natural Resources and the Environment\
+Tucson, Arizona\
+Bachelor of Science in Natural Resources (Class of 2025)\
+
+**Major:** Natural Resources (Conservation Biology)\
+**Minor:** Computer Science\
+**Certificates:** Geographic Information Systems
+Undergraduate Certificate\
+**Distinctions and Awards:** Fall 2022 CALS Dean’s List\
+
+
+### [Pima Community College]{.underline}
+Portland Community College\
+Portland, Oregon\
+AAOT Transfer Degree	(2020-2022)\
+
+**Distinctions and Awards:** Fall 2020-Spring 2022 Honors: Dean’s List
+
+------------------------------------------------------------------------
+
+## **Experience**
+
+**Student Worker** \| Ryule Lab (2023 - Present) \| University of Arizona
+
+**Website Manager** \| Lake Oswego Hunt Club (2022 - Present) \| Remote\
+
+More details on resume...
+---
