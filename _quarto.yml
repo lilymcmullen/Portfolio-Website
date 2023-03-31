@@ -12,21 +12,13 @@ website:
       - href: resume.pdf
         text: Resume
       - about.qmd
-  page-footer: 
-    background: "#4682B4"
-    left: "Lily McMullen"
-    right: 
-      - icon: github
-        href: https://github.com/lilymcmullen
-      - icon: email
-        href: mailto:lilymcmullen@arizona.edu    
       
 
 
 format:
   html:
     theme: 
-      - styles.scss
+      - lux
     mainfont: Nunito
     toc: true
 

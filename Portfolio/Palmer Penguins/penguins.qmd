@@ -1,0 +1,45 @@
+---
+title: "Palmer Penguins"
+description: "This post is based on a WFSC223 (Dealing with Data in the Wild) class, and the code I produced during the class. We learned about filtering and summarizing data, creating new columns, choosing the appropriate data visualizations, and performing and interpreting the appropriate statistical tests, in the context of real Palmer Penguin data from Antarctica."
+author:
+  - name: Lily McMullen
+  - url: https://lilymcmullen.github.io/
+  - credits for assignments and teaching: Dr. Ellen Bledsoe and the School of Natural Resources and the Environment at the University of Arizona
+date: December 2022
+categories: [Projects, R, Data Science, Wildlife] # self-defined categories
+#image: penguins.png
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+format: 
+  html: 
+    code-fold: true
+    toc: true
+editor: visual
+engine: knitr
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+#"penguins background..." citation For more info, check out (https://)
+
+citation: penguin background citation
+
+We were tasked with:\
+- finding...
+
+Our analysis was based on Palmer Penguin data, acquired from...
+
+To determine...
+etc etc
+
+#### Section 1
+
+Module 1 findings
+
+```
+
+Conclusions
+---
