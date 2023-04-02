@@ -1,6 +1,14 @@
 ---
 title: "Portfolio"
-
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: github 
+      text: GitHub
+      href: https://github.com/lilymcmullen
+      
 listing: 
   contents: Portfolio # all Quarto docs in the `posts` directory will be included on your listing page
   type: default # or `default` or `table`; each type has its own set of yaml options to include
@@ -8,4 +16,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-https://lilymcmullen.github.io/home/
+Projects page is a work in progress! Please visit my GitHub page for current projects for now. Thank you!
