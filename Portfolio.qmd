@@ -8,4 +8,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-Projects page is a work in progress! Please visit my GitHub page for current projects for now. Thank you!
+https://lilymcmullen.github.io/home/
